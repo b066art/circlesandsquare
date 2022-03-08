@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdb719f97a84ca348bb48605e1ee8dea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - squarePrefab: {fileID: 5236334275671279216, guid: f56ff1797b932c547ada4eae80f73712, type: 3}
+  - circleColliderPrefab: {fileID: 2386560510561536356, guid: ad9ae1adb3393a6479031bbdc90ea69f, type: 3}
+  - button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
